@@ -1,0 +1,21 @@
+.icon {
+  width: 3rem;
+  height: 3rem;
+  stroke: #5a5a5a;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.icon__circle {
+  stroke-width: 8;
+  fill: #d7dcff;
+}
+
+.smiley-eyes {
+  fill: #5a5a5a;
+}
+
+.smiley-mouth {
+  fill: none;
+  stroke-width: 8;
+}
